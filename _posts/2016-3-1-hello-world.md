@@ -6,6 +6,6 @@ title: Hello World
 This is first commit.
 
 ```python
-str = "Hello world";
+str = "Hello world"
 print str
 ```
