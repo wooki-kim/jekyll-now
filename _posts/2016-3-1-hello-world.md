@@ -5,7 +5,7 @@ title: Hello World
 
 This is first commit.
 
-'''java
-String str = "Hello world";
-System.out.println(str);
-'''
+```python
+str = "Hello world";
+print str
+```
