@@ -1,5 +1,5 @@
 ---
-layout: posdt
+layout: post
 title: Hello World
 ---
 
